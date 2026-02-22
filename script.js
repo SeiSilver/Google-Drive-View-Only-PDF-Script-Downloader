@@ -29,7 +29,7 @@
 
         console.log("Fast scrolling element:", chosenElement);
 
-        // 🔥 SPEED TUNING
+        // SPEED TUNING
         // 0.6 = 400ms
         // 0.9 = 200ms
         // 1.0 = 0ms (instant)

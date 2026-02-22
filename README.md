@@ -45,7 +45,7 @@ Here you can use this script to download view only pdf file from Google Drive. T
 
            console.log("Fast scrolling element:", chosenElement);
 
-           // 🔥 SPEED TUNING
+           // SPEED TUNING
            // 0.6 = 400ms (slower, for very large PDFs)
            // 0.9 = 200ms (recommended, balanced)
            // 1.0 = 0ms (instant, for small PDFs)
@@ -178,7 +178,7 @@ If you have a **very large PDF** and images aren't loading completely, you can a
 
 Find this section in the script:
 ```js
-// 🔥 SPEED TUNING
+// SPEED TUNING
 // 0.6 = 400ms (slower, for very large PDFs)
 // 0.9 = 200ms (recommended, balanced)
 // 1.0 = 0ms (instant, for small PDFs)
